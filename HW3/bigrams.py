@@ -59,7 +59,7 @@ def main(folder):
     
     final_output = reducer(shuffled_data)
     
-    output_file = "HW3/out/selected_bigram_index.txt"
+    output_file = "HW3/out/selected_bigram_index22.txt"
     with open(output_file, 'w', encoding='utf-8') as f:
         for line in final_output:
             f.write(line + "\n")
