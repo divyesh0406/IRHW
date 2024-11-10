@@ -1,0 +1,9 @@
+Assigned Search Engine: DuckDuckGo
+
+Average Percent Overlap: 18.49%
+Average Percent Spearman Coeffiecient: -7.56357
+
+Thus the statistics show us that an Average Overlap of 18.49% does not fair well in comparison to Google. 
+Also we have a Negative Average Spearman Coeffiecient of -7.56357 which tells us that the search results of both
+the web search engines do not show any co-relation among them, despite there being some common results for 
+certain queries. Hence we can say that both the Search engines produce very different results from each. 
